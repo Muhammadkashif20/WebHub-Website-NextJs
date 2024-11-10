@@ -6,6 +6,7 @@ const page = () => {
   return (
     <div className="text-2xl font-bold text-center ">
       <Home/>
+      
     </div>
   )
 }

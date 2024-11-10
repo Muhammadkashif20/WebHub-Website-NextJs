@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import React from 'react'
-
 const Hero = () => {
   return (
     <div className='font-sans'>
@@ -53,7 +52,7 @@ const Hero = () => {
                 </div>
                 <h2 className="text-lg text-gray-900 font-medium title-font mb-2">Cutting-Edge Tools</h2>
                 <p className="leading-relaxed text-base text-gray-500">
-                  Discover and learn to use the latest tools and technologies in web development.
+                "Discover and master the latest tools and technologies shaping the future of web development."
                 </p>
               </div>
             </div>
