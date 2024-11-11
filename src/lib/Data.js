@@ -3,7 +3,7 @@ const mockData = [
         id: 1,
         title: "Cutting-Edge Technologies",
         description: "Stay up to date with the latest trends in web development, from frameworks to tools that shape the future of the web.",
-        icon: "fas fa-laptop-code"
+        icon: "fas fa-laptop-code</i>"
       },
       {
         id: 2,
@@ -72,4 +72,6 @@ const mockData = [
         icon: "fas fa-tasks"
       },
     ]
+    console.log(mockData);
+    
   
