@@ -8,7 +8,7 @@ const Navbar = () => {
     <div>
     <header className="text-black container mx-auto bg flex flex-wrap p-5 flex-col md:flex-row items-center justify-between bg-slate-300 shadow-lg fixed z-10">
         {/* Logo and Title */}        
-          <span className="ml-3 text-2xl font-semibold">🚀 WebHub</span>
+          <span className="ml-3 text-2xl font-semibold">🚀 WebHub-Dev</span>
         {/* Navigation Links */}
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center space-x-5">
         <Link href={'/'}>
